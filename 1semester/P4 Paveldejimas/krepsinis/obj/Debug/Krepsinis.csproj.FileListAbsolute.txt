@@ -1,0 +1,13 @@
+F:\LAB3\LAB3\Krepsinis\bin\Debug\Krepsinis.exe.config
+I:\MANO\objektinis\P4\krepsinis\bin\Debug\Krepsinis.exe.config
+I:\MANO\objektinis\P4\krepsinis\obj\Debug\Krepsinis.csprojResolveAssemblyReference.cache
+I:\MANO\objektinis\P4\krepsinis\bin\Debug\Krepsinis.exe
+I:\MANO\objektinis\P4\krepsinis\bin\Debug\Krepsinis.pdb
+I:\MANO\objektinis\P4\krepsinis\obj\Debug\Krepsinis.exe
+I:\MANO\objektinis\P4\krepsinis\obj\Debug\Krepsinis.pdb
+F:\MANO\objektinis\P4\krepsinis\bin\Debug\Krepsinis.exe.config
+F:\MANO\objektinis\P4\krepsinis\obj\Debug\Krepsinis.exe
+F:\MANO\objektinis\P4\krepsinis\obj\Debug\Krepsinis.pdb
+F:\MANO\objektinis\P4\krepsinis\bin\Debug\Krepsinis.exe
+F:\MANO\objektinis\P4\krepsinis\bin\Debug\Krepsinis.pdb
+F:\MANO\objektinis\P4\krepsinis\obj\Debug\Krepsinis.csprojResolveAssemblyReference.cache

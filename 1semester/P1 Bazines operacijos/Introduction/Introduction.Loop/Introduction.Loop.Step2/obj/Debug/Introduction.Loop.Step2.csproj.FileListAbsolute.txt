@@ -1,0 +1,6 @@
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step2\bin\Debug\Introduction.Loop.Step2.exe.config
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step2\bin\Debug\Introduction.Loop.Step2.exe
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step2\bin\Debug\Introduction.Loop.Step2.pdb
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step2\obj\Debug\Introduction.Loop.Step2.csprojResolveAssemblyReference.cache
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step2\obj\Debug\Introduction.Loop.Step2.exe
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step2\obj\Debug\Introduction.Loop.Step2.pdb

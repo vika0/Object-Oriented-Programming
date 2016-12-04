@@ -1,0 +1,3 @@
+F:\MANO\objektinis\P5 Tekstas\4 savarankiskas zodziu istrynimas\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\MANO\objektinis\P5 Tekstas\4 savarankiskas zodziu istrynimas\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\MANO\objektinis\P5 Tekstas\4 savarankiskas zodziu istrynimas\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

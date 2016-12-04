@@ -1,0 +1,9 @@
+F:\MANO\objektinis\P5 Tekstas\2 savarankiskas komentaru pasalinimas\Komentaru pasalinimas\bin\Debug\ConsoleApplication1.exe.config
+F:\MANO\objektinis\P5 Tekstas\2 savarankiskas komentaru pasalinimas\Komentaru pasalinimas\obj\Debug\ConsoleApplication1.exe
+F:\MANO\objektinis\P5 Tekstas\2 savarankiskas komentaru pasalinimas\Komentaru pasalinimas\obj\Debug\ConsoleApplication1.pdb
+F:\MANO\objektinis\P5 Tekstas\2 savarankiskas komentaru pasalinimas\Komentaru pasalinimas\bin\Debug\ConsoleApplication1.exe
+F:\MANO\objektinis\P5 Tekstas\2 savarankiskas komentaru pasalinimas\Komentaru pasalinimas\bin\Debug\ConsoleApplication1.pdb
+F:\MANO\objektinis\P5 Tekstas\2 savarankiskas komentaru pasalinimas\Komentaru pasalinimas\obj\Debug\Komentaru pasalinimas.csprojResolveAssemblyReference.cache
+I:\MANO\objektinis\P5 Tekstas\2 savarankiskas komentaru pasalinimas\Komentaru pasalinimas\bin\Debug\ConsoleApplication1.exe.config
+I:\MANO\objektinis\P5 Tekstas\2 savarankiskas komentaru pasalinimas\Komentaru pasalinimas\obj\Debug\ConsoleApplication1.exe
+I:\MANO\objektinis\P5 Tekstas\2 savarankiskas komentaru pasalinimas\Komentaru pasalinimas\obj\Debug\ConsoleApplication1.pdb

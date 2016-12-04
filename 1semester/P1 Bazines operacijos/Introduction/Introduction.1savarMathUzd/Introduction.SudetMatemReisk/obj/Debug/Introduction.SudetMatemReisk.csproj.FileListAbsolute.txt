@@ -1,0 +1,5 @@
+Z:\L1\Introduction\Introduction.SudetMatemReisk\bin\Debug\Introduction.SudetMatemReisk.exe.config
+Z:\L1\Introduction\Introduction.SudetMatemReisk\bin\Debug\Introduction.SudetMatemReisk.exe
+Z:\L1\Introduction\Introduction.SudetMatemReisk\bin\Debug\Introduction.SudetMatemReisk.pdb
+Z:\L1\Introduction\Introduction.SudetMatemReisk\obj\Debug\Introduction.SudetMatemReisk.exe
+Z:\L1\Introduction\Introduction.SudetMatemReisk\obj\Debug\Introduction.SudetMatemReisk.pdb

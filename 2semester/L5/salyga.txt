@@ -1,0 +1,12 @@
+LDD_7.
+Iðrinktieji. 
+Darbo  valandomis  seimo  nariai  priiminëja  rinkëjus  seimo 
+priimamajame. Apie tai yra kaupiama informacija kiekvienà dienà.
+Pirmoje failo eilutëje yra data. Toliau faile yra lankytojø 
+pavardës, vardai, atvykimo laikas, konsultacijos trukmë. 
+Atskirame faile yra seimo nariø budëjimo grafikas: seimo nario
+pavardë ir vardas, dienos data, budëjimo priimamajame laikas 
+(pradþia, pabaiga). Sudaryti seimo nariø sàraðà, kuriame bûtø
+informacija apie vidutinæ vienos konsultacijos trukmæ,  vidutiná
+apsilankanèiø  rinkëjø  skaièiø  per  dienà. Surûðiuoti  pagal
+trukmæ  ir  apsilankiusiø rinkëjø skaièiø.

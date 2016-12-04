@@ -1,0 +1,26 @@
+PRADINIAI DUOMENYS
+
+Dienu failu informacija
+2016.05.05      Lovauskas       Ignas           09:30 00:30
+2016.05.05      Lentauskas      Dainius         15:15 00:20
+2016.05.04      Sofauskas       Arnas           12:40 01:15
+2016.05.04      Pagalvyte       Gaile           11:15 01:30
+2016.05.03      Jonaitis        Jonas           18:30 00:15
+2016.05.03      Saulele         Saule           10:20 01:20
+
+
+Seimo failo informacija
+Akmenelis       Akmuo           2016.05.03      11:40 16:55
+Medelis         Medis           2016.05.03      10:15 16:40
+Antanelis       Antanas         2016.05.03      11:40 16:55
+Medelis         Medis           2016.05.03      17:15 19:40
+
+
+
+Naujas sarasas
+
+
+Akmenelis       Akmuo           0          0    
+Antanelis       Antanas         0          0    
+Medelis         Medis           47,5       2    
+

@@ -1,0 +1,9 @@
+H:\MANO\objektinis\New folder\Introduction\Introduction.4savarank\bin\Debug\Introduction.4savarank.exe.config
+H:\MANO\objektinis\New folder\Introduction\Introduction.4savarank\bin\Debug\Introduction.4savarank.exe
+H:\MANO\objektinis\New folder\Introduction\Introduction.4savarank\bin\Debug\Introduction.4savarank.pdb
+H:\MANO\objektinis\New folder\Introduction\Introduction.4savarank\obj\Debug\Introduction.4savarank.exe
+H:\MANO\objektinis\New folder\Introduction\Introduction.4savarank\obj\Debug\Introduction.4savarank.pdb
+H:\MANO\objektinis\New folder\Introduction\Introduction.4savarank\obj\Debug\Introduction.4savarank.csprojResolveAssemblyReference.cache
+I:\MANO\objektinis\P1 Bazines operacijos\Introduction\Introduction.4savarank\bin\Debug\Introduction.4savarank.exe.config
+I:\MANO\objektinis\P1 Bazines operacijos\Introduction\Introduction.4savarank\obj\Debug\Introduction.4savarank.exe
+I:\MANO\objektinis\P1 Bazines operacijos\Introduction\Introduction.4savarank\obj\Debug\Introduction.4savarank.pdb

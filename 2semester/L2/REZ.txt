@@ -1,0 +1,81 @@
+--------------PRADINIAI-DUOMENYS------------------
+
+---------Studentu-duomenu-failas--------
+Programavimas   Tomaitis             Tomas           IFF-5/4   
+Matematika      Pjuklaite            Ieva            IFF-5/2   
+Psichologija    Puodzius             Jonas           IFF-5/3   
+Programavimas   Lygiauskas           Vladimiras      IFF-5/1   
+Programavimas   Aiseviciute          Aiste           IFF-5/4   
+Medijos         Pukutis              Pukis           IFF-5/5   
+Programavimas   Stasys               Girnaitis       IFF-5/4   
+Programavimas   Gaile                Pagalvyte       IFF-5/2   
+Medijos         Ignas                Lovauskas       IFF-5/2   
+Programavimas   Diana                Paveikslaite    IFF-5/1   
+Matematika      Dainius              Lentauskas      IFF-5/2   
+Programavimas   Vytenis              Deziauskas      IFF-5/3   
+Psichologija    Raigardas            Knygius         IFF-5/1   
+Programavimas   Giedrius             Palangiauskas   IFF-5/4   
+Psichologija    Audrius              Dalgiauskas     IFF-5/3   
+Programavimas   Jomante              Deklaityte      IFF-5/4   
+Matematika      Antanas              Stiklius        IFF-5/3   
+
+---------Destytoju-duomenu-failas--------
+Programavimas   Jonas           Jonaitis        6         
+Medijos         Arnas           Sofauskas       5         
+Informacines    Radvile         Stalciukaite    7         
+Matematika      Gintaras        Grebliauskas    8         
+Skaitmenine     Arnas           Sofauskas       4         
+Psichologija    Radvile         Stalciukaite    7         
+-------------------------------------------------
+
+
+Daugiausiai pasirinktu moduliu turi destytojas - Jonaitis Jonas
+
+Nevisu grupiu studentai pasirinko sio destytojo modulius.
+
+Grupes, kuriu studentai nepasirinko sio destytojo moduliu:
+Matematika      Antanas              Stiklius        IFF-5/3   
+Matematika      Dainius              Lentauskas      IFF-5/2   
+Matematika      Pjuklaite            Ieva            IFF-5/2   
+Medijos         Ignas                Lovauskas       IFF-5/2   
+Medijos         Pukutis              Pukis           IFF-5/5   
+Programavimas   Diana                Paveikslaite    IFF-5/1   
+Programavimas   Gaile                Pagalvyte       IFF-5/2   
+Programavimas   Lygiauskas           Vladimiras      IFF-5/1   
+Programavimas   Vytenis              Deziauskas      IFF-5/3   
+Psichologija    Audrius              Dalgiauskas     IFF-5/3   
+Psichologija    Puodzius             Jonas           IFF-5/3   
+Psichologija    Raigardas            Knygius         IFF-5/1   
+
+----------------------------------------------
+Ivestas modulio pavadinimas: Programavimas
+Sio modulio studentu sarasas:
+Programavimas   Tomaitis             Tomas           IFF-5/4   
+Programavimas   Lygiauskas           Vladimiras      IFF-5/1   
+Programavimas   Aiseviciute          Aiste           IFF-5/4   
+Programavimas   Stasys               Girnaitis       IFF-5/4   
+Programavimas   Gaile                Pagalvyte       IFF-5/2   
+Programavimas   Diana                Paveikslaite    IFF-5/1   
+Programavimas   Vytenis              Deziauskas      IFF-5/3   
+Programavimas   Giedrius             Palangiauskas   IFF-5/4   
+Programavimas   Jomante              Deklaityte      IFF-5/4   
+
+----------------------------------------------
+Ivestas modulio pavadinimas: Matematika
+Sio modulio studentu sarasas:
+Matematika      Pjuklaite            Ieva            IFF-5/2   
+Matematika      Dainius              Lentauskas      IFF-5/2   
+Matematika      Antanas              Stiklius        IFF-5/3   
+
+----------------------------------------------
+Ivestas modulio pavadinimas: Programavimas
+Sio modulio studentu sarasas:
+Programavimas   Tomaitis             Tomas           IFF-5/4   
+Programavimas   Lygiauskas           Vladimiras      IFF-5/1   
+Programavimas   Aiseviciute          Aiste           IFF-5/4   
+Programavimas   Stasys               Girnaitis       IFF-5/4   
+Programavimas   Gaile                Pagalvyte       IFF-5/2   
+Programavimas   Diana                Paveikslaite    IFF-5/1   
+Programavimas   Vytenis              Deziauskas      IFF-5/3   
+Programavimas   Giedrius             Palangiauskas   IFF-5/4   
+Programavimas   Jomante              Deklaityte      IFF-5/4   

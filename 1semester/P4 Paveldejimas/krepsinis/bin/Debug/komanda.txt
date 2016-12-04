@@ -1,0 +1,3 @@
+Zalgiris;Kaunas;5
+Lietuvos Rytas;Vilnius;5
+Stipruoliai;Siauliai;2

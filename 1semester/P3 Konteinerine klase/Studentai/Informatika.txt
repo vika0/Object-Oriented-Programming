@@ -1,0 +1,4 @@
+InformatikosFakultetas;Saule;IFF;5;9;6;9;8;9
+Saulute;Saule;IFF;5;9;6;9;8;9
+Debesiukas;Debesis;IFF;3;8;9;9
+Namaitis;Namas;IFA;4;9;5;1;3

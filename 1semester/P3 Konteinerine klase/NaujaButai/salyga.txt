@@ -1,0 +1,43 @@
+konteineriu klase!
+parse, override, foreach,list, lhs, rhs, 
+
+
+1 savarankiðko darbo uþduotis. (9psl)
+
+Pateikiamas 9 aukðtø namo parduodamø butø sàraðas. 
+Kiekviename laiptinës aukðte yra po 3 butus. Þinomas 
+buto numeris,  bendras plotas,  kambariø skaièius, pardavimo
+kaina, telefono Nr. Suraskite butus, kurie turi nurodytà 
+kambariø skaièiø, yra nurodytame aukðte ir kuriø kaina 
+nevirðija nurodytos kainos, ir juos suraðykite á tinkamø 
+butø konteinerá.Aukðto numeris nurodomas intervalu [].
+
+
+NAUJA SALYGA
+Pateikiamas 9 aukðtø namo parduodamø butø sàraðas.
+ Kiekviename laiptinës aukðte yra po 3 butus. Namo 
+laiptiniø skaièius yra maþesnis, nei 20. Duomenys tokie:
+buto numeris,  bendras plotas,  kambariø skaièius, 
+pardavimo kaina, telefono Nr. Suraskite butus, kurie 
+turi nurodytà kambariø skaièiø, yra nurodytame aukðte
+ir kuriø kaina nevirðija nurodytos kainos, ir juos 
+suraðykite á tinkamø butø konteinerá. Aukðto numeris
+nurodomas intervalu [nuo, iki].
+
+ButoNr, Plotas, KambariuSk, Kaina, TelNr
+1         74,5      3       100000 865597850
+
+ButoNr
+Plotas
+KambariuSk
+Kaina
+TelNr
+
+butoNr, plotas, kambariuSk, kaina, telNr
+
+butoNr
+plotas
+kambariuSk
+kaina
+telNr
+

@@ -1,0 +1,79 @@
+--------------
+| 1 MENESIS |
+--------------
+
+Kiekvieno darbininko atlyginimas:
+----------------------------------------
+Vardas     | Pavarde    | Alga
+----------------------------------------
+Juozukas   | Juozas     | 1008 
+Sniegelis  | Sniegas    | 756  
+Saulute    | Saule      | 784  
+Onute      | Ona        | 686  
+Eglute     | Egle       | 882  
+Batuotas   | Katinas    | 770  
+Pinokis    | Buratinas  | 168  
+----------------------------------------
+Labiausiai nesiseke dirbti darbuotojui
+vardu Pinokis Buratinas 
+----------------------------------------
+11 diena buvo pagaminta daugiausiai detaliu
+----------------------------------------
+
+--------------
+| 2 MENESIS |
+--------------
+
+Kiekvieno darbininko atlyginimas:
+----------------------------------------
+Vardas     | Pavarde    | Alga
+----------------------------------------
+Juozukas   | Juozas     | 308  
+Sniegelis  | Sniegas    | 28   
+Saulute    | Saule      | 280  
+Onute      | Ona        | 252  
+Eglute     | Egle       | 280  
+Batuotas   | Katinas    | 224  
+Pinokis    | Buratinas  | 112  
+----------------------------------------
+Labiausiai nesiseke dirbti darbuotojui
+vardu Sniegelis Sniegas 
+----------------------------------------
+1 diena buvo pagaminta daugiausiai detaliu
+----------------------------------------
+
+
+--------------------------------------------------------------
+Banko pavadinimas: SEB
+--------------------------------------------------------------
+Vardas     | Pavarde    | Sask nr.| Pirmo men  | Antro men 
+--------------------------------------------------------------
+Juozas     | Juozukas   | LT001   |  1008eur.  |   308eur.
+Egle       | Eglute     | LT005   |   882eur.  |   280eur.
+Katinas    | Batuotas   | LT006   |   770eur.  |   224eur.
+
+--------------------------------------------------------------
+Banko pavadinimas: SNORAS
+--------------------------------------------------------------
+Vardas     | Pavarde    | Sask nr.| Pirmo men  | Antro men 
+--------------------------------------------------------------
+Sniegas    | Sniegelis  | LT002   |   756eur.  |    28eur.
+Buratinas  | Pinokis    | LT007   |   168eur.  |   112eur.
+
+--------------------------------------------------------------
+Banko pavadinimas: Swedbankas
+--------------------------------------------------------------
+Vardas     | Pavarde    | Sask nr.| Pirmo men  | Antro men 
+--------------------------------------------------------------
+Saule      | Saulute    | LT003   |   784eur.  |   280eur.
+
+--------------------------------------------------------------
+Banko pavadinimas: DNB
+--------------------------------------------------------------
+Vardas     | Pavarde    | Sask nr.| Pirmo men  | Antro men 
+--------------------------------------------------------------
+Ona        | Onute      | LT004   |   686eur.  |   252eur.
+
+Silpniausias pirmo men darbuotojas - Pinokis Buratinas
+pirma menesi uzdirbo: 168, o antraji: 112
+Darbuotojas nepagerino praejusio menesio rezultatu

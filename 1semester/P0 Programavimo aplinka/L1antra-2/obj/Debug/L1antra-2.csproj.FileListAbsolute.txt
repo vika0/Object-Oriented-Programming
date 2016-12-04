@@ -1,0 +1,6 @@
+D:\L1antra-2\bin\Debug\L1antra-2.exe.config
+D:\L1antra-2\bin\Debug\L1antra-2.exe
+D:\L1antra-2\bin\Debug\L1antra-2.pdb
+D:\L1antra-2\obj\Debug\L1antra-2.csprojResolveAssemblyReference.cache
+D:\L1antra-2\obj\Debug\L1antra-2.exe
+D:\L1antra-2\obj\Debug\L1antra-2.pdb

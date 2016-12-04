@@ -1,0 +1,6 @@
+Z:\L1\Introduction\Introduction.2Savarank\bin\Debug\Introduction.2Savarank.exe.config
+Z:\L1\Introduction\Introduction.2Savarank\obj\Debug\Introduction.2Savarank.exe
+Z:\L1\Introduction\Introduction.2Savarank\obj\Debug\Introduction.2Savarank.pdb
+Z:\L1\Introduction\Introduction.2Savarank\obj\Debug\Introduction.2Savarank.csprojResolveAssemblyReference.cache
+Z:\L1\Introduction\Introduction.2Savarank\bin\Debug\Introduction.2Savarank.exe
+Z:\L1\Introduction\Introduction.2Savarank\bin\Debug\Introduction.2Savarank.pdb

@@ -1,0 +1,22 @@
+Tik pirmame faile esantys zodziai ir ju pasikartojimo skaicius
+---------------------------------------
+     Zodis      |   Pasikartojimai
+---------------------------------------
+autobiografinis | 1    
+koncentracijos  | 3    
+tikrovikesne   | 1    
+pagalvodavau    | 1    
+pasitelkiant    | 1    
+artimiesiems    | 1    
+surudijusias    | 1    
+isivaizduoti    | 3    
+“ragautinos”    | 1    
+pagrindinis     | 3    
+---------------------------------------
+
+Ilgiausias teksto fragmentas
+---------------------------------------
+galima teigti, kad 
+---------------------------------------
+Eilutes numeris(iai) pirmame faile: 8 11 12 14 15 20 21 
+Eilutes numeris(iai) antrame faile: 4 9 10 12 13 

@@ -1,0 +1,12 @@
+I:\MANO\objektinis\P3\NaujaButai\ButuPrograma\bin\Debug\ButuPrograma.exe.config
+I:\MANO\objektinis\P3\NaujaButai\ButuPrograma\obj\Debug\ButuPrograma.csprojResolveAssemblyReference.cache
+I:\MANO\objektinis\P3\NaujaButai\ButuPrograma\bin\Debug\ButuPrograma.exe
+I:\MANO\objektinis\P3\NaujaButai\ButuPrograma\bin\Debug\ButuPrograma.pdb
+I:\MANO\objektinis\P3\NaujaButai\ButuPrograma\obj\Debug\ButuPrograma.exe
+I:\MANO\objektinis\P3\NaujaButai\ButuPrograma\obj\Debug\ButuPrograma.pdb
+F:\MANO\objektinis\P3\NaujaButai\ButuPrograma\bin\Debug\ButuPrograma.exe.config
+F:\MANO\objektinis\P3\NaujaButai\ButuPrograma\obj\Debug\ButuPrograma.exe
+F:\MANO\objektinis\P3\NaujaButai\ButuPrograma\obj\Debug\ButuPrograma.pdb
+I:\MANO\objektinis\P3 Konteinerine klase\NaujaButai\ButuPrograma\bin\Debug\ButuPrograma.exe.config
+I:\MANO\objektinis\P3 Konteinerine klase\NaujaButai\ButuPrograma\obj\Debug\ButuPrograma.exe
+I:\MANO\objektinis\P3 Konteinerine klase\NaujaButai\ButuPrograma\obj\Debug\ButuPrograma.pdb

@@ -1,0 +1,5 @@
+Z:\objektinis\L1\Introduction\Introduction.CharsAndStrings.Step5\bin\Debug\Introduction.CharsAndStrings.Step5.exe.config
+Z:\objektinis\L1\Introduction\Introduction.CharsAndStrings.Step5\bin\Debug\Introduction.CharsAndStrings.Step5.exe
+Z:\objektinis\L1\Introduction\Introduction.CharsAndStrings.Step5\bin\Debug\Introduction.CharsAndStrings.Step5.pdb
+Z:\objektinis\L1\Introduction\Introduction.CharsAndStrings.Step5\obj\Debug\Introduction.CharsAndStrings.Step5.exe
+Z:\objektinis\L1\Introduction\Introduction.CharsAndStrings.Step5\obj\Debug\Introduction.CharsAndStrings.Step5.pdb

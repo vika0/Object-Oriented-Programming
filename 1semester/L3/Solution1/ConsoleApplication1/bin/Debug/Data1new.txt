@@ -1,0 +1,22 @@
+1
+2015-10-03
+L,Arnas,Sofauskas,FFBL,Top,Jarvan IV,3,1,5
+L,Gaile,Pagalvyte,FFBL,Mid,Annie,1,1,5
+L,Jonas,Kedzius,FFBL,AD,Ashe,3,1,5
+L,Radvile,Stalciukaite,FFBL,Support,Taric,0,1,8
+L,Ignas,Lovauskas,FFBL,Jungle,Amumu,1,1,6
+C,Indre,Langaite,Rainbow Dash,8,1,sakute
+C,Dainius,Lentauskas,Rainbow Dash,10,1,kocelas
+C,Vytenis,Deziauskas,Rainbow Dash,2,1,tankas
+C,Raigardas,Knygius,Rainbow Dash,1,2,peilis
+L,Giedrius,Palangiauskas,FuriKuri,Top,Annie,3,1,10
+L,Audrius,Dalgiauskas,FuriKuri,Mid,Ahri,6,1,8
+L,Gintaras,Grebliauskas,FuriKuri,AD,Corki,3,2,8
+L,Jomante,Deklaite,FuriKuri,Support,Sonna,1,4,13
+L,Simona,Tinklaite,Girls United,Mid,Annie,5,1,8
+L,Rasa,Plaktukaite,Girls United,Support,Soraka,1,1,14
+L,Raminta,Foteliute,Girls United,Jungle,Udyr,1,1,7
+C,Antanas,Stiklius,1337,1,5,pagalys
+C,Jonas,Puodzius,1337,3,1,lankas
+C,Algirdas,Kalvaitis,1337,3,1,kardas
+C,Jurgis,Siauciunas,1337,1,1,dalgis

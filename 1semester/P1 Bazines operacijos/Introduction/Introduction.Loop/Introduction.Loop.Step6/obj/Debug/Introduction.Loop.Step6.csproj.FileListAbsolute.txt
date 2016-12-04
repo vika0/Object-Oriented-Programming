@@ -1,0 +1,5 @@
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step6\bin\Debug\Introduction.Loop.Step6.exe.config
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step6\bin\Debug\Introduction.Loop.Step6.exe
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step6\bin\Debug\Introduction.Loop.Step6.pdb
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step6\obj\Debug\Introduction.Loop.Step6.exe
+Z:\L1\Introduction\Introduction\Introduction.Loop.Step6\obj\Debug\Introduction.Loop.Step6.pdb

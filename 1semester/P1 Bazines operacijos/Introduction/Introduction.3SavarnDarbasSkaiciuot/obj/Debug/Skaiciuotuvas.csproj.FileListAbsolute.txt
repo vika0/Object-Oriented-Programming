@@ -1,0 +1,8 @@
+Z:\L1\Introduction\Skaiciuotuvas\bin\Debug\Skaiciuotuvas.exe.config
+Z:\L1\Introduction\Skaiciuotuvas\bin\Debug\Skaiciuotuvas.exe
+Z:\L1\Introduction\Skaiciuotuvas\bin\Debug\Skaiciuotuvas.pdb
+Z:\L1\Introduction\Skaiciuotuvas\obj\Debug\Skaiciuotuvas.exe
+Z:\L1\Introduction\Skaiciuotuvas\obj\Debug\Skaiciuotuvas.pdb
+H:\MANO\objektinis\P1\Introduction\Introduction.3SavarnDarbasSkaiciuot\bin\Debug\Skaiciuotuvas.exe.config
+H:\MANO\objektinis\P1\Introduction\Introduction.3SavarnDarbasSkaiciuot\obj\Debug\Skaiciuotuvas.exe
+H:\MANO\objektinis\P1\Introduction\Introduction.3SavarnDarbasSkaiciuot\obj\Debug\Skaiciuotuvas.pdb

@@ -1,0 +1,18 @@
+U3-7. WCG turnyras. Turite triju turnyro ratu duomenis. 
+Keiciasi duomenu formatas. Pirmoje eiluteje rato numeris, 
+antroje – data. Toliau informacija apie dalyvius ir ju 
+rezultatus pateikta tokiu paciu formatu kaip L1 užduotyje.
+? Raskite žaideja, pademonstravusi geriausia bendra (per 
+visus tris ratus) asmenini rezultata. Palyginimui naudokite
+vadinamaji KDA santyki (nužudymai + dalyvavimai nužudymuose)
+/mirtys t.y. (K+A)/D. Ekrane atspausdinkite jo varda, pavarde,
+komandos pavadinima, pozicija bei naudota cempiona.
+? Raskite, kuris cempionas buvo naudotas „universaliausiai“
+(daugiausiai skirtingu poziciju). Ekrane atspausdinkite
+cempiono pavadinima, bei kokiose pozicijose jis buvo naudotas.
+? Kai kuriu komandu sudetis kito turnyro metu. Raskite, kurie
+žaidejai pasitrauke, ir kas juos pakeite. Rezultatus surašykite 
+i faila „Pasikeitimai.csv“
+? Sudarykite „Top“ pozicijoje žaidusiu žaideju saraša, i faila
+„Top.csv“ irašykite žaideju komandos pavadinimus, pavardes,
+ vardus, naudoto cempiono pavadinima.

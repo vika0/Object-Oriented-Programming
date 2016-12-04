@@ -1,0 +1,6 @@
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\bin\Debug\Introduction.Methos.Step1.exe.config
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\obj\Debug\Introduction.Methos.Step1.csprojResolveAssemblyReference.cache
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\bin\Debug\Introduction.Methos.Step1.exe
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\bin\Debug\Introduction.Methos.Step1.pdb
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\obj\Debug\Introduction.Methos.Step1.exe
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\obj\Debug\Introduction.Methos.Step1.pdb

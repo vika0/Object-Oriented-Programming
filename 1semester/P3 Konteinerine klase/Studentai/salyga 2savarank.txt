@@ -1,0 +1,5 @@
+2 savarankiško darbo uduotis.
+Pirmoje failo eiluteje nurodytas fakulteto pavadinimas. Tekstiniame faile yra fakulteto studentu iemos sesijos
+dalyku ivertinimai. Eiluteje apie studenta yra tokie duomenys: pavarde, vardas, grupe, paymiu kiekis,
+paymiai. Nustatykite kiekvienos grupes bendra mokymosi vidurki. Rezultatus išspausdinkite surikiuotus
+maejanciai pagal vidurki ir pagal grupes abeceliškai.

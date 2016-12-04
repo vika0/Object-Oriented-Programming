@@ -1,0 +1,27 @@
+3
+2015-10-07
+Arnas,Sofauskas,FFBL,Top,Jarvan IV,3,2,5
+Meile,Meilyte,FFBL,Mid,Annie,1,2,5
+Jonas,Kedzius,FFBL,AD,Ashe,3,1,5
+Radvile,Stalciukaite,FFBL,Support,Taric,2,2,8
+Ignas,Lovauskas,FFBL,Jungle,Amumu,1,1,6
+Saule,Saulute,Rainbow Dash,Top,Jarvan IV,8,2,9
+Diana,Paveikslaite,Rainbow Dash,Mid,Ahri,3,4,3
+Dainius,Lentauskas,Rainbow Dash,AD,Vein,6,1,12
+Sunelis,Sunys,Rainbow Dash,Support,Annie,2,1,14
+Raigardas,Knygius,Rainbow Dash,Jungle,Lee Sin,1,2,11
+Medis,Matelis,FuriKuri,Top,Annie,3,2,12
+Audrius,Dalgiauskas,FuriKuri,Mid,Ahri,6,1,8
+Gintaras,Grebliauskas,FuriKuri,AD,Corki,3,2,8
+Jomante,Deklaite,FuriKuri,Support,Sonna,2,4,13
+Aukse,Auksele,FuriKuri,Jungle,Jarvan IV,4,5,8
+Audrone,Grindziute,Girls United,Top,Jarvan IV,3,2,8
+Simona,Tinklaite,Girls United,Mid,Annie,5,2,8
+Ieva,Pjuklaite,Girls United,AD,Vein,8,2,8
+Rasa,Plaktukaite,Girls United,Support,Soraka,1,1,14
+Ratas,Ratelis,Girls United,Jungle,Udyr,2,1,7
+Antanas,Stiklius,1337,Top,Soraka,2,2,8
+Jonas,Puodzius,1337,Mid,Ahri,3,2,5
+Algirdas,Kalvaitis,1337,AD,Caitlyn,3,1,5
+Jurgis,Siauciunas,1337,Support,Taric,1,1,6
+Stasys,Girnaitis,1337,Jungle,Lee Sin,1,1,5

@@ -1,0 +1,15 @@
+H:\MANO\objektinis\LL2\1Savar\1Savarank\bin\Debug\1Savarank.exe.config
+H:\MANO\objektinis\LL2\1Savar\1Savarank\bin\Debug\1Savarank.exe
+H:\MANO\objektinis\LL2\1Savar\1Savarank\bin\Debug\1Savarank.pdb
+H:\MANO\objektinis\LL2\1Savar\1Savarank\obj\Debug\1Savarank.csprojResolveAssemblyReference.cache
+H:\MANO\objektinis\LL2\1Savar\1Savarank\obj\Debug\1Savarank.exe
+H:\MANO\objektinis\LL2\1Savar\1Savarank\obj\Debug\1Savarank.pdb
+H:\MANO\objektinis\P2\1Savar\1Savarank\bin\Debug\1Savarank.exe.config
+H:\MANO\objektinis\P2\1Savar\1Savarank\obj\Debug\1Savarank.exe
+H:\MANO\objektinis\P2\1Savar\1Savarank\obj\Debug\1Savarank.pdb
+H:\MANO\objektinis\P2\1Savar\1Savarank\bin\Debug\1Savarank.exe
+H:\MANO\objektinis\P2\1Savar\1Savarank\bin\Debug\1Savarank.pdb
+H:\MANO\objektinis\P2\1Savar\1Savarank\obj\Debug\1Savarank.csprojResolveAssemblyReference.cache
+F:\MANO\objektinis\P2\1Savar\1Savarank\bin\Debug\1Savarank.exe.config
+F:\MANO\objektinis\P2\1Savar\1Savarank\obj\Debug\1Savarank.exe
+F:\MANO\objektinis\P2\1Savar\1Savarank\obj\Debug\1Savarank.pdb

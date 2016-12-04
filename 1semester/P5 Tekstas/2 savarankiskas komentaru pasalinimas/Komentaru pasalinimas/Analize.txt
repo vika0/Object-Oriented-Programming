@@ -1,0 +1,11 @@
+/*Visi duomenys/
+{
+pradzia
+//    istrina paprasta komentara
+//   istrina ir sita paprasta komentara
+/* zvaigzdutes paprastas komantaras
+zvaigzdutes komentaro vidus
+kitas zvaigzdutes komentaro vidus
+zvaigzdutes komentaro pabaiga*/
+Bet koks tekstas  // komentaras paprastas po teksto, toj pacioj eilutej
+Komentaras yra sitoj eilutej      // komentaras irgi paprastas po teksto, toj pacioj eilutej

@@ -1,0 +1,12 @@
+I:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\bin\Debug\StudentuPrograma.exe.config
+I:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\obj\Debug\StudentuPrograma.csprojResolveAssemblyReference.cache
+I:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\bin\Debug\StudentuPrograma.exe
+I:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\bin\Debug\StudentuPrograma.pdb
+I:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\obj\Debug\StudentuPrograma.exe
+I:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\obj\Debug\StudentuPrograma.pdb
+F:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\bin\Debug\StudentuPrograma.exe.config
+F:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\obj\Debug\StudentuPrograma.exe
+F:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\obj\Debug\StudentuPrograma.pdb
+F:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\obj\Debug\StudentuPrograma.csprojResolveAssemblyReference.cache
+F:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\bin\Debug\StudentuPrograma.exe
+F:\MANO\objektinis\P3\Studentai\Solution1\StudentuPrograma\bin\Debug\StudentuPrograma.pdb

@@ -1,0 +1,6 @@
+H:\MANO\objektinis\New folder\Introduction\Introduction.CharsAndStrings\Introduction.CharsAndStrings.Step6\bin\Debug\Introduction.CharsAndStrings.Step6.exe.config
+H:\MANO\objektinis\New folder\Introduction\Introduction.CharsAndStrings\Introduction.CharsAndStrings.Step6\obj\Debug\Introduction.CharsAndStrings.Step6.csprojResolveAssemblyReference.cache
+H:\MANO\objektinis\New folder\Introduction\Introduction.CharsAndStrings\Introduction.CharsAndStrings.Step6\bin\Debug\Introduction.CharsAndStrings.Step6.exe
+H:\MANO\objektinis\New folder\Introduction\Introduction.CharsAndStrings\Introduction.CharsAndStrings.Step6\bin\Debug\Introduction.CharsAndStrings.Step6.pdb
+H:\MANO\objektinis\New folder\Introduction\Introduction.CharsAndStrings\Introduction.CharsAndStrings.Step6\obj\Debug\Introduction.CharsAndStrings.Step6.exe
+H:\MANO\objektinis\New folder\Introduction\Introduction.CharsAndStrings\Introduction.CharsAndStrings.Step6\obj\Debug\Introduction.CharsAndStrings.Step6.pdb

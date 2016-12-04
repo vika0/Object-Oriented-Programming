@@ -1,0 +1,6 @@
+Z:\L1\Introduction\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.exe.config
+Z:\L1\Introduction\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.exe
+Z:\L1\Introduction\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.pdb
+Z:\L1\Introduction\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.csprojResolveAssemblyReference.cache
+Z:\L1\Introduction\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.exe
+Z:\L1\Introduction\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.pdb

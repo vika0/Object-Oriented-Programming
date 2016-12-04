@@ -1,0 +1,6 @@
+D:\mokslai\objektinis\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.exe.config
+D:\mokslai\objektinis\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.exe
+D:\mokslai\objektinis\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.pdb
+D:\mokslai\objektinis\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.exe
+D:\mokslai\objektinis\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.pdb
+D:\mokslai\objektinis\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.csprojResolveAssemblyReference.cache

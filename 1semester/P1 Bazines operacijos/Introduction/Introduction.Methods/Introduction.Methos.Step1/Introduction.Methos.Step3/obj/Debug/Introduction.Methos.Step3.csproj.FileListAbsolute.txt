@@ -1,0 +1,5 @@
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\Introduction.Methos.Step3\bin\Debug\Introduction.Methos.Step3.exe.config
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\Introduction.Methos.Step3\bin\Debug\Introduction.Methos.Step3.exe
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\Introduction.Methos.Step3\bin\Debug\Introduction.Methos.Step3.pdb
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\Introduction.Methos.Step3\obj\Debug\Introduction.Methos.Step3.exe
+Z:\objektinis\L1\Introduction\Introduction.Methos.Step1\Introduction.Methos.Step3\obj\Debug\Introduction.Methos.Step3.pdb

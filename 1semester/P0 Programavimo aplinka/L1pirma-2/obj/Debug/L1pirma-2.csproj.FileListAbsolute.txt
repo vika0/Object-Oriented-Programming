@@ -1,0 +1,9 @@
+D:\L1pirma-2\bin\Debug\L1pirma-2.exe.config
+D:\L1pirma-2\obj\Debug\L1pirma-2.csprojResolveAssemblyReference.cache
+D:\L1pirma-2\bin\Debug\L1pirma-2.exe
+D:\L1pirma-2\bin\Debug\L1pirma-2.pdb
+D:\L1pirma-2\obj\Debug\L1pirma-2.exe
+D:\L1pirma-2\obj\Debug\L1pirma-2.pdb
+Z:\L1pirma-2\bin\Debug\L1pirma-2.exe.config
+Z:\L1pirma-2\obj\Debug\L1pirma-2.exe
+Z:\L1pirma-2\obj\Debug\L1pirma-2.pdb

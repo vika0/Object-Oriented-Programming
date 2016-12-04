@@ -1,0 +1,5 @@
+H:\MANO\objektinis\LL2\Sunys\Lab1.Step3\Lab1.Step3\bin\Debug\Lab1.Step3.exe.config
+H:\MANO\objektinis\LL2\Sunys\Lab1.Step3\Lab1.Step3\bin\Debug\Lab1.Step3.exe
+H:\MANO\objektinis\LL2\Sunys\Lab1.Step3\Lab1.Step3\bin\Debug\Lab1.Step3.pdb
+H:\MANO\objektinis\LL2\Sunys\Lab1.Step3\Lab1.Step3\obj\Debug\Lab1.Step3.exe
+H:\MANO\objektinis\LL2\Sunys\Lab1.Step3\Lab1.Step3\obj\Debug\Lab1.Step3.pdb

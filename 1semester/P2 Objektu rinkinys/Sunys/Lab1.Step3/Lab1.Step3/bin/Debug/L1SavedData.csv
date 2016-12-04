@@ -1,0 +1,6 @@
+Vardas;MikroId;Svoris;Amžius;Savininkas;Tel. Nr.;Vakcinacija;Agresyvumas
+Reksas;123;2015;7;Jonas Jonaitis;867424992;7/24/2015 12:00:00 AM;True
+Bimas;456;2520;8;Petras Petraitis;866612845;12/1/2014 12:00:00 AM;False
+Haris;456;1520;10;Rimas Rimaitis;866612395;12/1/2013 12:00:00 AM;False
+Pifas;456;710;8;Antanas Antanaitis;866612344;2/1/2013 12:00:00 AM;False
+Rikis;456;98;9;Simas Simaitis;866612329;10/1/2014 12:00:00 AM;False

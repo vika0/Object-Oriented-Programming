@@ -1,0 +1,14 @@
+LD_7.
+Moduliai. Studentai renkasi modulius. Uþ modulius yra atsakingi dëstytojai.
+Dëstytojas gali bûti atsakingas uþ keletà moduliø. Suraskite, kuris
+dëstytojas turi daugiausiai pasirinktø moduliø. Nustatykite, ar visø grupiø
+studentai pasirinko ðio dëstytojo modulius. Atspausdinkite grupes, kuriø 
+studentai nepasirinko ðio dëstytojo moduliø.
+Duomenys:
+ Tekstiniame  faile  U7a.txt duota informacija apie studentø pasirenkamus
+modulius: modulio pavadinimas, studento pavardë, vardas, grupë.
+ Tekstiniame  faile  U7b.txt  duota  informacija  apie  modulius:  modulio
+pavadinimas,  atsakingo dëstytojo pavardë, vardas, kreditø kiekis.
+
+Spausdinamas sàraðas turi bûti surikiuotas abëcëlës tvarka. Sudarykite
+nurodyto modulio (ávedamas klaviatûra) pasirinkusiø studentø sàraðà.

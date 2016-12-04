@@ -1,0 +1,9 @@
+Zalgiris;Kaunas;Darius;Songaila;5;10;1
+Lietuvos Rytas;Vilnius;Mindaugas;Lukauskis;5;15;0
+Zalgiris;Kaunas;Martynas;Pocius;4;10;3
+Lietuvos Rytas;Vilnius;Deividas;Gailius;5;15;2
+Lietuvos Rytas;Vilnius;Julius;Jucikas;5;12;1
+Zalgiris;Kaunas;Renaldas;Seibutis;5;8;2
+Zalgiris;Kaunas;Paulius;Jankûnas;3;7;1
+Stipruoliai;Siauliai;Tomas;Tomaitis;2;10;0
+Stipruoliai;Siauliai;Lukas;Lukaitis;2;9;1

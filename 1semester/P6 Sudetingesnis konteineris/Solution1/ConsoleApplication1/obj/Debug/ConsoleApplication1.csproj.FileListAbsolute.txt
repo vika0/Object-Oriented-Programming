@@ -1,0 +1,9 @@
+F:\MANO\objektinis\P6 Sudetingesnis konteineris\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\MANO\objektinis\P6 Sudetingesnis konteineris\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\MANO\objektinis\P6 Sudetingesnis konteineris\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\MANO\objektinis\P6 Sudetingesnis konteineris\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\MANO\objektinis\P6 Sudetingesnis konteineris\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\MANO\objektinis\P6 Sudetingesnis konteineris\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\MANO\objektinis\P6 Sudetingesnis konteineris\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+I:\MANO\objektinis\P6 Sudetingesnis konteineris\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\MANO\objektinis\P6 Sudetingesnis konteineris\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+H:\MANO\objektinis\LL2\1Savarankiskas\1SavarankiskasTuristai\bin\Debug\1SavarankiskasTuristai.exe.config
+H:\MANO\objektinis\LL2\1Savarankiskas\1SavarankiskasTuristai\bin\Debug\1SavarankiskasTuristai.exe
+H:\MANO\objektinis\LL2\1Savarankiskas\1SavarankiskasTuristai\bin\Debug\1SavarankiskasTuristai.pdb
+H:\MANO\objektinis\LL2\1Savarankiskas\1SavarankiskasTuristai\obj\Debug\1SavarankiskasTuristai.csprojResolveAssemblyReference.cache
+H:\MANO\objektinis\LL2\1Savarankiskas\1SavarankiskasTuristai\obj\Debug\1SavarankiskasTuristai.exe
+H:\MANO\objektinis\LL2\1Savarankiskas\1SavarankiskasTuristai\obj\Debug\1SavarankiskasTuristai.pdb

@@ -1,0 +1,3 @@
+H:\MANO\objektinis\P1\Introduction\Introduction.If\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.exe.config
+H:\MANO\objektinis\P1\Introduction\Introduction.If\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.exe
+H:\MANO\objektinis\P1\Introduction\Introduction.If\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.pdb

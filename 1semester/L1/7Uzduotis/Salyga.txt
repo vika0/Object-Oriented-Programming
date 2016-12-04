@@ -1,0 +1,50 @@
+7. WCG turnyras. Kaune vyksta atrankinis kompiuterinio žaidimo „League of Legends“ turnyras.
+Žaidime dvi penkiu žaideju komandos kovoja tarpusavyje valdydamos skirtingus cempionus,
+siekdamos sunaikinti priešininku bazes gilumoje stovinti „Nexus“. Duomenu faile pateikta informacija
+apie pirmo rato dalyvius ir ju rezultatus: vardas, pavarde, komanda, pozicija, cempionas,
+sunaikinimai(K), dalyvavimai sunaikinimuose(A).
+? Raskite žaideja, pademonstravusi geriausia asmenini rezultata. Palyginimui naudokite
+vadinamaji KA rodikli (K+A). Ekrane atspausdinkite jo varda, pavarde, komandos
+pavadinima, pozicija bei naudota cempiona.
+? Raskite, kuris cempionas buvo naudotas „universaliausiai“ (daugiausiai skirtingu poziciju).
+Ekrane atspausdinkite cempiono pavadinima, bei kokiose pozicijose jis buvo naudotas.
+? Sudarykite „Top“ pozicijoje žaidusiu žaideju saraša, i faila „Top.csv“ irašykite žaideju
+komandos pavadinimus, pavardes, vardus, naudoto cempiono pavadinima.
+
+	   1 Vardas = vardas;
+            2 Pavarde = pavarde;
+            3 Komanda = komanda;
+            4 Pozicija = pozicija;
+            5 Cemp = Cemp;
+            6 Sunaik = sunaik;
+            7 Zuvo = zuvo;
+            8 Dalyvav = dalyvav;
+
+
+Arnas,Sofauskas,FFBL,Top,Jarvan IV,3,0,5
+1           2     3   4       5    6 7 8
+
+Pav 	    Top	  Mid	  AD     Support     Jungle		
+0 Jarvan    +++                                   +      2                
+1 Annie     +      ++                 +                  3              
+2 Ashe                    +                              1           
+3 Taric                            +                     1               
+4 Amumu                                       +          1         
+5 Ahri            ++                                     1             
+6 Vein                    ++                             1            
+7 Lee Sin                                        +       1             
+8 Corki                  +                               1                 
+9 Sonna                             +                    1                      
+10 Soraka                            +                    1               
+11 Udyr                                           +       1  
+
+
+
+
+
+
+
+
+
+
+                  

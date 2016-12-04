@@ -1,0 +1,12 @@
+Bet koks tekstas  
+Bet koks tekstas, kur kazka raso
+Cia nieko neraso 
+-
+skaiciuoja: 1, 2, 3...
+Komentaras yra sitoj eilutej      
+arba
+jo nera
+}
+programos pabaiga
+Aciu uz /demesi
+}

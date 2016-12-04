@@ -1,0 +1,31 @@
+Duotas tekstas: 
+
+Berzas,sula;;sula;;klevu saldial lapasula 
+ a   aula, ar  suart zemes vaikai du
+----------------------------------
+
+Zodziu matrica  
+
+ B e r z a s , s u
+ l a ; ; s u l a ;
+ ; k l e v u   s a
+ l d i a l   l a p
+ a s u l a     a  
+     a u l a ,   a
+ r     s u a r t  
+ z e m e s   v a i
+ k a i   d u      
+----------------------------------
+
+Duoti zodziai:
+
+Sula
+Alus
+----------------------------------
+
+Gauti rezultatai: 
+
+kvadratine matrica: 9 x 9
+zodis 'Sula' pasikartoja 3 kartus
+zodis 'Alus' pasikartoja 2 kartus
+

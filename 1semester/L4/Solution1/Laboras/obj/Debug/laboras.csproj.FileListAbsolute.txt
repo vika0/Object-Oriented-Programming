@@ -1,0 +1,15 @@
+F:\MANO\objektinis\L4\Solution1\Laboras\bin\Debug\ConsoleApplication1.exe.config
+F:\MANO\objektinis\L4\Solution1\Laboras\obj\Debug\ConsoleApplication1.exe
+F:\MANO\objektinis\L4\Solution1\Laboras\obj\Debug\ConsoleApplication1.pdb
+F:\MANO\objektinis\L4\Solution1\Laboras\bin\Debug\ConsoleApplication1.exe
+F:\MANO\objektinis\L4\Solution1\Laboras\bin\Debug\ConsoleApplication1.pdb
+F:\MANO\objektinis\L4\Solution1\Laboras\obj\Debug\laboras.csprojResolveAssemblyReference.cache
+I:\MANO\objektinis\L4\Solution1\Laboras\bin\Debug\ConsoleApplication1.exe.config
+I:\MANO\objektinis\L4\Solution1\Laboras\obj\Debug\ConsoleApplication1.exe
+I:\MANO\objektinis\L4\Solution1\Laboras\obj\Debug\ConsoleApplication1.pdb
+I:\MANO\objektinis\L4\Solution1\Laboras\bin\Debug\ConsoleApplication1.exe
+I:\MANO\objektinis\L4\Solution1\Laboras\bin\Debug\ConsoleApplication1.pdb
+I:\MANO\objektinis\L4\Solution1\Laboras\obj\Debug\laboras.csprojResolveAssemblyReference.cache
+F:\1mas\MANO\objektinis\L4\Solution1\Laboras\bin\Debug\ConsoleApplication1.exe.config
+F:\1mas\MANO\objektinis\L4\Solution1\Laboras\obj\Debug\ConsoleApplication1.exe
+F:\1mas\MANO\objektinis\L4\Solution1\Laboras\obj\Debug\ConsoleApplication1.pdb

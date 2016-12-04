@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction4savarank", "Introduction4savarank.csproj", "{86F05033-2B61-44E6-8472-C5D2C3E2C85C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F05033-2B61-44E6-8472-C5D2C3E2C85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F05033-2B61-44E6-8472-C5D2C3E2C85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F05033-2B61-44E6-8472-C5D2C3E2C85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F05033-2B61-44E6-8472-C5D2C3E2C85C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

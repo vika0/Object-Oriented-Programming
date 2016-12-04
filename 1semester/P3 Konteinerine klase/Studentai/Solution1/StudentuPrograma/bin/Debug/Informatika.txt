@@ -1,0 +1,10 @@
+Saulute;Saule;IFF;5;9 6 9 8 9
+Debesiukas;Debesis;IFF;3;8 9 9
+Namaitis;Namas;IFA;4;9 5 1 3
+Langelis;Langas;IFA;3;9 5 4
+Lempius;Lempa;IFF;6;9 9 8 1 9 8
+Pinigas;Centas;IFA;3;9 6 7
+Lapelis;Lapas;IF;4;9 8 6 9
+Stogelis;Stogas;IF;3;9 4 6
+Medelis;Medis;IFS;5;2 9 8 5 4
+Zvaigzdele;Zvaigzde;IFS;4;4 8 6 2
